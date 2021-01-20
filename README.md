@@ -7,4 +7,6 @@ We can find in this repository how:
 4. Evaluate ML performance
 5. Improve performance
 
-Using scikit-learn
+Using scikit-learn 
+
+Data: pima-indians-diabetes
